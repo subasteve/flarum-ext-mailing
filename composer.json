@@ -1,5 +1,5 @@
 {
-    "name": "clarkwinkelmann/flarum-ext-mailing",
+    "name": "subasteve/flarum-ext-mailing",
     "description": "Send individual or mass mailing to Flarum users",
     "keywords": [
         "extension",
